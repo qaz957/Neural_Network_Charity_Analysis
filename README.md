@@ -64,4 +64,4 @@ We chose 2 hidden layers in the model, one with 8 neurons and one with 5:
   
 ## Summary
 
-Overall, this is a good start to building a for this data. There is still a lot of oppurtunity to create something that will be more accurate in predicting success for the charity. It think fine tuning the pertinet data and getting the perfect number of layers and neurons can get us some better results. If we don't see a big jump in accuracy, we may need switch up our methodolgy entirely and go with something more traditional like a Linear Regression model.
+Overall, this is a good start to building a model for this data. There is still a lot of oppurtunity to create something that will be more accurate in predicting success for the charity. Fine tuning the pertinet data and getting the perfect number of layers and neurons can get us some better results. If we don't see a big jump in accuracy, we may need switch up our methodolgy entirely and go with something more traditional like a Linear Regression model.
